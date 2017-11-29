@@ -1,0 +1,112 @@
+	h1
+{
+	font-family: "Spectral";
+
+}
+h2
+{
+	font-family: "Montserrat";
+}
+h3
+{
+	font-family: "Spectral";
+  font-size:2.1em;
+  
+}
+h5
+{
+	font-family: "Ubuntu";
+}
+h4
+{
+	font-family: "Montserrat";
+}
+p
+{
+	font-family: "Montserrat";
+}
+.box-container
+{
+	width: 50%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 50px 30px 50px 30px;
+	text-align:left;
+
+}
+.large-container
+{
+	width: 85%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding: 50px 30px 50px 30px;
+	text-align:center;
+	border-radius: 30px;
+}
+.black-text
+{
+	color:black;
+}
+#center
+{
+	text-align: center;
+}
+.header
+{
+	 height: 100vh;
+	 background: linear-gradient(
+	 rgba(0, 0, 0, 0.5),
+	 rgba(0, 0, 0, 0.5)
+	 ), url("https://northglennews.co.za/wp-content/uploads/sites/51/2014/06/Zola.jpg") center top no-repeat;
+	 background-size: cover;
+	 margin-bottom: 50px;
+}
+.title
+{
+	 color: white;
+	 padding-top: calc( 50vh - 25px );
+}
+.title h1
+{
+	font-size: 4.5em;
+}
+.title h3
+{
+	font-size: 1.5em;
+}
+.footer
+{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+  padding: 2px 2px;
+	background-color: #708090;
+	color: black;
+	text-align: center;
+  font-size:1.1em;
+  
+}
+img
+{
+	width:100%;
+	height:auto;
+}
+.space
+{
+  height:80px;
+}
+.button 
+{
+  background-color: rgb(226, 222, 222);
+  border: none;
+  color: Black;
+  padding: 8px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.2em;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius:20px;
+}
+
